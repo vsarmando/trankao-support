@@ -2,4 +2,4 @@
 
 Public support and privacy pages for Trankao.
 
-Contact: Armando Vazquez — avazquez.santiago@gmail.com
+Contact: Armando Vazquez — ryzeailabs@gmail.com
